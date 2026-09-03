@@ -1,0 +1,1 @@
+Solve y'(x) + y(x) = 0 with y(0) = 2.

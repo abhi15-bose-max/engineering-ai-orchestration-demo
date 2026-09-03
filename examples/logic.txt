@@ -1,0 +1,1 @@
+Determine whether x >= 0, y >= 0, x + y <= 10 and x = 6, y = 5 are simultaneously satisfiable.

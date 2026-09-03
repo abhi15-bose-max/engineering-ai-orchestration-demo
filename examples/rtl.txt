@@ -1,0 +1,1 @@
+Create a synthesizable 4-bit counter with clk, reset and enable.
